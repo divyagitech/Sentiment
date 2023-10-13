@@ -1,4 +1,4 @@
-# Sentiment
+# Project Overview
 This project aims to perform sentiment analysis on movie reviews using natural language processing (NLP) techniques. I employed machine learning model to classify movie reviews into positive or negative sentiments based on the text content.
 # Files and Directory Structure
 Procfile: Configuration file for Heroku deployment.
